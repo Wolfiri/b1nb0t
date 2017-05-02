@@ -1,0 +1,5 @@
+config.yaml
+config/
+emojis.db
+emojis/
+storage.json
